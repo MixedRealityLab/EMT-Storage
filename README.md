@@ -1,4 +1,8 @@
-#EMT-Server
+<h1>
+  Emotion Mapper Tool - Data Storage - Prototype
+</h1>
+
+## Getting Started
 
 To run: docker-compose up
 
@@ -15,7 +19,7 @@ Temp admin:
 	root
 ```
 
-##Database Schema:
+## Database Schema:
 
 Arrays will be stringified when obtained from the database
 
