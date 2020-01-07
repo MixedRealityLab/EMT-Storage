@@ -7,6 +7,8 @@ In order to use Emotion Mapper fully, please also download the [Emotion Mapper U
 
 ## Requirement
 ```
+* Docker
+* Docker-Compose
 * Django>=2.0,<3.0
 * Psycopg2>=2.7,<3.0
 * Django-cors-headers==3.0.2
